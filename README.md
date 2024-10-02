@@ -12,11 +12,11 @@ As a full stack developer, you need to master almost all aspects of application 
 
 Typescript and Javascript are the main programming languages ​​I use. Using this programming language can make it easier and faster to develop applications on both the frontend and backend sides.
 
-### Design Tools
+### UI/UX Designer
 
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 
-Figma is the best tool that I currently use to design systems during application development
+As a skilled UX/UI designer, I leverage Figma to craft intuitive and visually appealing interfaces for my projects. My expertise, honed through the Skilvul UI/UX Design Master program, encompasses the entire design process, from empathizing with users to testing prototypes. This comprehensive approach ensures that my designs meet both functional and aesthetic requirements.
 
 ### Frontend
 
@@ -47,6 +47,12 @@ Nginx is another powerful web server and reverse proxy server that can be used i
 ![docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 
 Docker is a valuable tool for streamlining development and deployment workflows, regardless of whether you're working on monolithic or microservices architectures. Its containerization technology ensures consistent environments, simplifies dependency management, and facilitates collaboration among development teams.
+
+## Networking
+
+![mikrotik](https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik) ![juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white) ![zte](https://img.shields.io/badge/ZTE-00C0FE?style=for-the-badge)
+
+As a seasoned network engineer with three years of experience in the ISP sector, I specialize in network planning and device configuration. My expertise encompasses a diverse range of networking equipment, including routers and switches from MikroTik and Juniper, as well as OLTs from ZTE and switches from BDCom. I possess a strong proficiency in BGP configuration, load balancing, and failover strategies, ensuring network resilience and optimal performance.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chusnulhadi&label=Profile%20views&color=0e75b6&style=flat)
 
